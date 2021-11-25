@@ -1,0 +1,73 @@
+body{
+    background-color:#CFCFCF;
+}
+.navbar{
+    padding: 0;
+    width: 90%;
+    max-width: 1400px;
+    margin: auto;
+}
+.clearfix{
+    padding: 0;
+    width: 90%;
+    max-width: 1400px;
+    margin: auto;
+    
+    
+}
+
+.row .JA .title{
+    font-weight: normal;
+    font-family: sans-serif;
+    padding:14px 0;
+}
+.contenedor .row{
+    border: rgba(0,0,0,.6);
+    width: 90%;
+    max-width: 650px;
+    margin: auto;
+    padding: 5px 35px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3px;
+}
+.contenedor .row .form-label{
+    display: block;
+    font-size: 16px;
+    font-family: sans-serif;
+    position: relative;
+}
+.contenedor .row .form-input, .form-textarea{
+    outline: none;
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border-radius: 2px;
+    font-size: 14px;
+    font-family: sans-serif;
+
+}
+.contenedor .row .form-textarea{
+    resize: vertical;
+    max-height: 150px;
+    min-height: 50px;
+}
+.contenedor .row .btn-submit{
+    background-color: green;
+}
+.centrar{
+    width: 90%;
+    max-width: 650px;
+    margin: auto;
+    padding: 5px 35px;
+    margin-top: 30px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    text-align: center;
+}
+.body.dark{
+    background-color: rgb(58, 55, 55);
+    padding: 0px 60px;
+    color: white;
+}
+
